@@ -14,15 +14,11 @@
 * [rebase] rerere
 * [init] defaultBranch
 
-# Aliases ?
-
 # Log
 ```sh
-export _git_log_medium_format='%C(bold)Commit:%C(reset) %C(green)%H%C(red)%d%n%C(bold)Author:%C(reset) %C(cyan)%an <%ae>%n%C(bold)Date:%C(reset)   %C(blue)%ai (%ar)%C(reset)%n%+B'
-export _git_log_oneline_format='%C(green)%h%C(reset) %s%C(red)%d%C(reset)%n'
-gl='git log --topo-order --pretty=format:"$_git_log_medium_format"'
-gld='git log --topo-order --stat --patch --full-diff --pretty=format:"$_git_log_medium_format"'
-glg='git log --topo-order --graph --pretty=format:"$_git_log_oneline_format"'
+gl='git log --topo-order'
+gld='git log --topo-order --stat --patch --full-diff'
+glg='git log --topo-order --graph'
 ```
 
 # Zadatak
@@ -35,14 +31,21 @@ end
 ```
 Napravit postojeci file koje ce ljudi editirat da svi editiraju isti file i da vec nesto postoji
 
-* Provjeriti vscode rebase interactive
-* Provjeriti intellij rebase interactive
+Napravit dva commita, drugi je fixup
+
+* Kako dobiti lijepi graf sa svim branchevima?
 
 # Stage hunks/lines
 
 # Rebase
+* Provjeriti vscode rebase interactive
+* Provjeriti intellij rebase interactive
+* Nacrtati kako radi merge sa slikicama
+* Nacrtati kako izgleda rebase
 
 # Merge Conflics
+
+* git reflog
 
 # Advanced
 * Branch from branch and PRs
