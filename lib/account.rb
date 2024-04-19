@@ -1,5 +1,5 @@
 class Account
-  def name
+  def title
     'Buha'
   end
 end
