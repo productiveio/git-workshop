@@ -27,7 +27,9 @@ Journey of intent.
 Dashboard holds my gaze,
 Charts and graphs tell silent tales,
 Progress in colors.
-
+ja 
+sam
+linija
 7.
 Meetings set in stone,
 Collaboration's soft hum,
