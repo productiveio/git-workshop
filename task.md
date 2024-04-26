@@ -3,7 +3,8 @@
 
 * pause for "Stage hunks/lines"
 
+
 * Commit
-* change one of the lines further
+* change two of the lines further
 * commit with `git commit --fixup HEAD`
 * push, open a PR
