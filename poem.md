@@ -47,3 +47,8 @@ Decisions grow sound.
 Evening dims the light,
 Productive.io stands by,
 Day's companion true.
+
+11.
+Nisam bas dobar sa haiku
+Ali mogu probat
+brod
