@@ -131,3 +131,4 @@ with `push.default = current` and `push.autoSetupRemote = true`
     $ git reflog
 
 [LazyGit](https://github.com/jesseduffield/lazygit)
+[Sign with 1password](https://blog.1password.com/git-commit-signing/)
