@@ -100,6 +100,9 @@ with `push.default = current` and `push.autoSetupRemote = true`
 ## Merge
 ![](https://miro.medium.com/v2/resize:fit:720/format:webp/0*DHmWhgEMZOSW3OVz.gif)
 
+## Squash and merge (github)
+![](https://i.stack.imgur.com/Lh9LK.png)
+
 ## Fast-forward
 ![](https://miro.medium.com/v2/resize:fit:720/format:webp/0*GhW5WSCRH1dneU6c.gif)
 
@@ -126,3 +129,5 @@ with `push.default = current` and `push.autoSetupRemote = true`
 # Additional
 
     $ git reflog
+
+[LazyGit](https://github.com/jesseduffield/lazygit)
