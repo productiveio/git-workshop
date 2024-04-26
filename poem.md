@@ -11,6 +11,10 @@ Morning's first email,
 Lists cascade in gentle flow,
 Day's map in pixels.
 
+prva
+druga
+treca
+
 wpjf
 bca
 stef
@@ -19,6 +23,10 @@ stef
 Clicks weave through the plan,
 Efficiency found anew,
 Productive.io.
+
+
+peta
+sestak
 
 4.
 Timelines stretch, entwined,
