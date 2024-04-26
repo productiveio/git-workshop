@@ -3,6 +3,10 @@
     Tasks align like stars above,
     Night yields to progress.
 
+    a
+    b
+    c
+
     2.
     Morning's first email,
     Lists cascade in gentle flow,
@@ -27,7 +31,7 @@
     Dashboard holds my gaze,
     Charts and graphs tell silent tales,
     Progress in colors.
-    ja 
+    ja
     sam
     linija
 
