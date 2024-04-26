@@ -30,6 +30,11 @@ Progress in colors.
 ja 
 sam
 linija
+
+a
+b
+c
+
 7.
 Meetings set in stone,
 Collaboration's soft hum,
