@@ -8,6 +8,8 @@ Morning's first email,
 Lists cascade in gentle flow,
 Day's map in pixels.
 
+drugo svoje
+
 3.
 Clicks weave through the plan,
 Efficiency found anew,
