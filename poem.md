@@ -52,3 +52,6 @@ Day's companion true.
 Nisam bas dobar sa haiku
 Ali mogu probat
 brod
+
+12.
+Ovdje krece novo
