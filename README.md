@@ -97,14 +97,14 @@ with `push.default = current` and `push.autoSetupRemote = true`
 
 ### [merge vs rebase](https://medium.com/pranayaggarwal25/git-merge-rebase-d8b91825bbb1)
 
+## Fast-forward
+![](https://miro.medium.com/v2/resize:fit:720/format:webp/0*GhW5WSCRH1dneU6c.gif)
+
 ## Merge
 ![](https://miro.medium.com/v2/resize:fit:720/format:webp/0*DHmWhgEMZOSW3OVz.gif)
 
 ## Squash and merge (github)
 ![](https://i.stack.imgur.com/Lh9LK.png)
-
-## Fast-forward
-![](https://miro.medium.com/v2/resize:fit:720/format:webp/0*GhW5WSCRH1dneU6c.gif)
 
 ## Rebase
 ![](https://miro.medium.com/v2/resize:fit:720/format:webp/0*1VkO0oTn-PPPzJmx.gif)
